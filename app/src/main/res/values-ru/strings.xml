@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoiceAssistent</string>
+    <string name="send_button_text">Отправить</string>
+    <string name="question_field_hint">Задайте вопрос</string>
+    <string name="hello">привет</string>
+    <string name="hi">приветик</string>
+    <string name="hello_answer">Привет</string>
+    <string name="hel">привет</string>
+    <string name="how_are_you_question">как дела?</string>
+    <string name="how_fares_it">как делишки?</string>
+    <string name="what_is_up">как жизнь?</string>
+    <string name="how_are_you_answer">Не плохо</string>
+    <string name="what_are_you_doing_question_one">что делаешь?</string>
+    <string name="what_are_you_doing_question_two">чем занимаешься?</string>
+    <string name="what_are_you_doing_question_three">а чем занимаешься?</string>
+    <string name="what_are_you_doing_question_four">а чем ты занимаешься?</string>
+    <string name="what_are_you_doing_answer">Отвечаю на вопросы</string>
+    <string name="what_day_today_question">какой сегодня день?</string>
+    <string name="what_time_is_it_now_question">который час?</string>
+    <string name="what_day_of_the_week_question">какой день недели?</string>
+</resources>

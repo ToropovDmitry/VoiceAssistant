@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VoiceAssistent</string>
+    <string name="send_button_text">Send</string>
+    <string name="question_field_hint">Ask question</string>
+    <string name="hello">hello</string>
+    <string name="hi">hi</string>
+    <string name="hello_answer">Hello</string>
+    <string name="hel">hello</string>
+    <string name="how_are_you_question">how are you?</string>
+    <string name="how_fares_it">how fares it?</string>
+    <string name="what_is_up">what is up?</string>
+    <string name="how_are_you_answer">Not bad</string>
+    <string name="what_are_you_doing_question_one">what are you doing?</string>
+    <string name="what_are_you_doing_question_two">what are you doing?</string>
+    <string name="what_are_you_doing_question_three">what are you doing?</string>
+    <string name="what_are_you_doing_question_four">what are you doing?</string>
+    <string name="what_are_you_doing_answer">I am answering the questions</string>
+    <string name="what_day_today_question">what day today?</string>
+    <string name="what_time_is_it_now_question">what time is it now?</string>
+    <string name="what_day_of_the_week_question">what day of the week?</string>
+</resources>
